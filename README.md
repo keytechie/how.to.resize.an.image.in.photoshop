@@ -19,7 +19,7 @@ In this section, we will discuss how to resize an image in Photoshop. We will en
 ## Resize an Image in Photoshop
 
 
-Step1. Open or Create an Image
-Step2. Navigate to Image Menu
-Step3. Select the Image Size Option
-Step4. Specify the image size
+1. Open or Create an Image
+2. Navigate to Image Menu
+3. Select the Image Size Option
+4. Specify the image size
